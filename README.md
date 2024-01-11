@@ -1,5 +1,5 @@
 
-# Hello World! <br/> Eu sou o @nunexd254! :D <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+# Hello World! <br/> Eu sou o @nunex! :D <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nunexd254)](https://github.com/nunexd254)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in//)
@@ -7,7 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&labelColor=c14438&logo=Gmail&logoColor=white)](mailto:nunexd254@gmail.com)
 
 ### Sobre mim
-Eu sou desenvolvedor {backend | C | PHP | Laravel | Python}  && instrutor técnico [@nunex](https:///).
+Eu sou desenvolvedor {backend | C | PHP | Laravel | Python}  && instrutor técnico [@nunexd254](https:///).
 
 - [Cursos](https:///) 👨🏼‍🏫 - Cursos técnicos em infraestrutura.
 - [Blog](https://nunexd254.github.io/gate-project/) ✍🏼 - Atualmente estou escrevendo sobre diversas coisas.
