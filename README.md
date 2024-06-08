@@ -7,11 +7,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&labelColor=c14438&logo=Gmail&logoColor=white)](mailto:nunexd254@gmail.com)
 
 ### Sobre mim
-Eu sou desenvolvedor {backend | C | PHP | Laravel | Python}  && instrutor técnico [@nunexd254](https:///).
+Apesar de não ser desenvolvedor gosto de desenvolvimento de softwares {backend | PHP | }  && instrutor técnico [//] [@nunexd254](https:///).
 
-- [Cursos](https:///) 👨🏼‍🏫 - Cursos técnicos em infraestrutura.
-- [Blog](https://nunexd254.github.io/gate-project/) ✍🏼 - Atualmente estou escrevendo sobre diversas coisas.
-- [Website](https:///) 💻 - Trabalhando com isto.
+[//]- [Cursos](https:///) 👨🏼‍🏫 - Cursos técnicos em infraestrutura.
+[//]- [Blog](https://nunexd254.github.io/gate-project/) ✍🏼 - Atualmente estou escrevendo sobre diversas coisas.
+[//]- [Website](https:///) 💻 - Trabalhando com isto.
 
 
 <br />
