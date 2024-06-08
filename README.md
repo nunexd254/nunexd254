@@ -7,11 +7,11 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&labelColor=c14438&logo=Gmail&logoColor=white)](mailto:nunexd254@gmail.com)
 
 ### Sobre mim
-Apesar de não ser desenvolvedor gosto de desenvolvimento de softwares {backend | PHP | }  && instrutor técnico [//] [@nunexd254](https:///).
+Estudante de desenvolvimento de softwares {backend | PHP | }  && instrutor técnico && Analista de Suporte <!-- [@nunexd254](https:///).-->
 
-[//]- [Cursos](https:///) 👨🏼‍🏫 - Cursos técnicos em infraestrutura.
-[//]- [Blog](https://nunexd254.github.io/gate-project/) ✍🏼 - Atualmente estou escrevendo sobre diversas coisas.
-[//]- [Website](https:///) 💻 - Trabalhando com isto.
+<!-- - [Cursos](https:///) 👨🏼‍🏫 - Cursos técnicos em infraestrutura.
+- [Blog](https://nunexd254.github.io/gate-project/) ✍🏼 - Atualmente estou escrevendo sobre diversas coisas.
+- [Website](https:///) 💻 - Trabalhando com isto. -->
 
 
 <br />
@@ -22,9 +22,10 @@ Apesar de não ser desenvolvedor gosto de desenvolvimento de softwares {backend 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
+<!--
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" alt="Laravel"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C/C++"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>-->
 
