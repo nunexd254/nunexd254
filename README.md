@@ -9,9 +9,9 @@
 ### Sobre mim
 Estudante de desenvolvimento de softwares {backend | PHP | }  && instrutor técnico && Analista de Suporte <!-- [@nunexd254](https:///).-->
 
-<!-- - [Cursos](https:///) 👨🏼‍🏫 - Cursos técnicos em infraestrutura.
-- [Blog](https://nunexd254.github.io/gate-project/) ✍🏼 - Atualmente estou escrevendo sobre diversas coisas.
-- [Website](https:///) 💻 - Trabalhando com isto. -->
+<!-- - [Cursos](https://udemy.com/) 👨🏼‍🏫 - Cursos técnicos em infraestrutura.
+- [Blog](https://blog.tisobmedida.com.br/) ✍🏼 - Atualmente estou escrevendo sobre diversas coisas.
+- [Website](https://tisobmedida.com.br/) 💻 - Trabalhando com isto. -->
 
 
 <br />
